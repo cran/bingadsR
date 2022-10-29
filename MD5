@@ -1,0 +1,15 @@
+4c9dda19ae2e51826950dd44a0b2022f *DESCRIPTION
+77d9ac920b3ad3681dd975168f6a2c53 *NAMESPACE
+9b36265deca66ccf6fe65e9642ff2b00 *NEWS.md
+f6cf85f115df6a77473933dace4baf7c *R/fetch_bingads.R
+4826d7ec602fa0505100d031621860b3 *R/my_bingads_data.R
+2402a28f9305b06db7388ff32fee767e *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+8861142640b0353a0af0760af77d438a *data/my_bingads_data.RData
+a8449957ffce9ab8ab38e4048eff1a56 *inst/doc/tutorial.R
+32763edbccf38efc5feaf6bd19a22cb4 *inst/doc/tutorial.Rmd
+8a0a83096f86be2356b1d53910f5d73d *inst/doc/tutorial.html
+48bfc4c2af6f51e3f34af67dc675491f *man/fetch_bingads.Rd
+b09850d60578c19b4f7a98ec1031027c *man/my_bingads_data.Rd
+8861142640b0353a0af0760af77d438a *vignettes/my_bingads_data.RData
+32763edbccf38efc5feaf6bd19a22cb4 *vignettes/tutorial.Rmd
